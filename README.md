@@ -1,2 +1,2 @@
 # event-landing-project
-This is event landing project repo
+This is my first git repo...
